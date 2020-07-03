@@ -3,3 +3,5 @@ export FZF_COMPLETION_TRIGGER='\'
 export NVM_DIR="$HOME/.nvm"
 # Path to your oh-my-zsh installation.
 export ZSH="/home/ubuntu/.oh-my-zsh"
+export PATH_TO_KEY="~/.ssh/id_rsa"
+export SERVER_IP="root@132.232.96.193"
