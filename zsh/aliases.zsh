@@ -2,7 +2,7 @@
 alias wk="cd /mnt/d/work/code_dir"
 alias ln="cd /mnt/d/workspace/learn"
 alias ghb="cd /mnt/d/workspace/github"
-alias glb="cd /mnt/d/workspace/gitlib"
+alias ge="cd /mnt/d/workspace/gitee"
 alias dk="cd /mnt/c/Users/DEV/Desktop"
 alias app="cd /mnt/d/app"
 
