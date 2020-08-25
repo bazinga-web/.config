@@ -1,2 +1,2 @@
 # .config
-dotfile
+zsh config file
